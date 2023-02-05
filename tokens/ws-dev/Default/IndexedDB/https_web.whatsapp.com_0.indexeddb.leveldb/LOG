@@ -1,0 +1,24 @@
+2023/02/05-18:21:48.602 2b2f Reusing MANIFEST /home/bruno/Documentos/ws-sender-dev/tokens/ws-dev/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/05-18:21:48.603 2b2f Recovering log #358
+2023/02/05-18:21:48.648 2b2f Reusing old log /home/bruno/Documentos/ws-sender-dev/tokens/ws-dev/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000358.log 
+2023/02/05-18:22:19.569 2b35 Level-0 table #371: started
+2023/02/05-18:22:19.697 2b35 Level-0 table #371: 1154963 bytes OK
+2023/02/05-18:22:19.734 2b35 Delete type=0 #358
+2023/02/05-18:22:20.585 2b34 Compacting 1@0 + 0@1 files
+2023/02/05-18:22:20.660 2b34 Generated table #372@0: 18678 keys, 313575 bytes
+2023/02/05-18:22:20.706 2b34 Generated table #373@0: 11052 keys, 302974 bytes
+2023/02/05-18:22:20.706 2b34 Compacted 1@0 + 0@1 files => 616549 bytes
+2023/02/05-18:22:20.740 2b34 compacted to: files[ 0 2 19 0 0 0 0 ]
+2023/02/05-18:22:20.741 2b34 Delete type=2 #371
+2023/02/05-18:22:21.714 2b34 Compacting 1@1 + 4@2 files
+2023/02/05-18:22:21.868 2b34 Generated table #374@1: 55995 keys, 2208005 bytes
+2023/02/05-18:22:22.013 2b34 Generated table #375@1: 68822 keys, 2209183 bytes
+2023/02/05-18:22:22.246 2b34 Generated table #376@1: 108749 keys, 2261141 bytes
+2023/02/05-18:22:22.382 2b34 Generated table #377@1: 89953 keys, 1865883 bytes
+2023/02/05-18:22:22.382 2b34 Compacted 1@1 + 4@2 files => 8544212 bytes
+2023/02/05-18:22:22.467 2b34 compacted to: files[ 0 1 19 0 0 0 0 ]
+2023/02/05-18:22:22.467 2b34 Delete type=2 #364
+2023/02/05-18:22:22.467 2b34 Delete type=2 #362
+2023/02/05-18:22:22.467 2b34 Delete type=2 #363
+2023/02/05-18:22:22.467 2b34 Delete type=2 #373
+2023/02/05-18:22:22.467 2b34 Delete type=2 #365
